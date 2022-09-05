@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set, as well as stuff that I'm learning!
 <table><tr><td valign="top" width="33%">
 
 
@@ -85,6 +85,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
