@@ -1,4 +1,4 @@
-## Hey 👋, I'm Keshav, a developer and student from India!  
+## Hey 👋, I'm Keshav. 
   
 
 <a href="https://github.com/Keshavshyper6325" target="_blank">
@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I'm a CS Sophomore still learning the ropes to stuff like Game Development, ML and AI, DevOps, etc.! I am also a 3-time National Cyber Olympiad gold medalist and attend tech events and hackathon regularly.  
+I'm a CS Sophomore still learning the ropes to ML and AI, DevOps, etc.! I am also a 3-time National Cyber Olympiad gold medalist and attend tech events and hackathon regularly.  
   
 
 <br/>  
