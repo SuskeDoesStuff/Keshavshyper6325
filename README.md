@@ -19,28 +19,18 @@ I'm a CS Sophomore still learning the ropes to ML and AI, DevOps, etc.! I am als
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on my personal portfolio website and a game to call my own.  
+- 🔭 I’m currently working on my first proper ML Model.  
   
 
-- 🌱 I’m currently learning C# and Unity, along with Web Development on the side.    
+- 🌱 I’m currently learning Python and TensorFlow, along with Web Development on the side.    
   
 
-- ❓ Ask me about anything Game Development, and how to market and monetize them, and even how to target a specific playerbase!  
+- ❓ Ask me about anything AI. 
   
 
 - ⚡ Fun fact: The memes over at r/ProgrammerHumor on Reddit are actually quite funny and keep me hooked on this world of programming and development.    
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
