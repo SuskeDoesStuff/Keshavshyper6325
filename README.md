@@ -82,11 +82,11 @@ I'm a CS Sophomore still learning the ropes to ML and AI, DevOps, etc.! I am als
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keshavshyper6325&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SuskeDoesStuff&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshavshyper6325&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuskeDoesStuff&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
